@@ -109,7 +109,3 @@ def load_data(pkl_file_path):
         docs = pickle.load(f, encoding='bytes')
 
     return docs
-
-
-# script_save_pkls()
-script_merge_pkls()
