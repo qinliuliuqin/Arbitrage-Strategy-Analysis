@@ -1,0 +1,83 @@
+With seed words
+Seeds
+Topic #0                  Topic #0                    Topic #0                      Topic #0
+asset 0.20000             model 0.02264               model 0.02168                 model 0.02185
+loan 0.20000              fund 0.01503                asset 0.01862                 fund 0.01351
+bond 0.20000              year 0.01149                loan 0.01421                  year 0.01113
+fund 0.20000              volatility 0.01143          fund 0.01412                  volatility 0.01090
+model 0.20000             asset 0.01056               risk 0.01226                  risk 0.01021
+able 0.00000              bond 0.01034                bond 0.01138                  asset 0.00960
+                                                                                    
+Topic #1                  Topic #1                    Topic #1                      Topic #1
+able 0.00000              trade 0.01109               trade 0.01132                 trade 0.01150
+connection 0.00000        investor 0.00802            investor 0.00828              herd 0.00897
+consistently 0.00000      measure 0.00747             institutional 0.00771         investor 0.00853
+convert 0.00000           change 0.00739              change 0.00735                institutional 0.00851
+convertible 0.00000       institutional 0.00713       measure 0.00726               industry 0.00836
+corporation 0.00000       ownership 0.00706           industry 0.00713              average 0.00751
+                                                                                    
+Topic #2                  Topic #2                    Topic #2                      Topic #2
+able 0.00000              order 0.01834               order 0.01908                 order 0.02109
+connection 0.00000        trade 0.01168               option 0.00967                option 0.01057
+consistently 0.00000      option 0.00902              trade 0.00949                 trade 0.01009
+convert 0.00000           trader 0.00786              trader 0.00766                hide 0.00789
+convertible 0.00000       information 0.00750         information 0.00764           information 0.00776
+corporation 0.00000       equilibrium 0.00694         equilibrium 0.00685           trader 0.00745
+                                                                                    
+Topic #3                  Topic #3                    Topic #3                      Topic #3
+able 0.00000              credit 0.01140              rat 0.01091                   rat 0.01102
+connection 0.00000        rat 0.01088                 target 0.01025                target 0.01042
+consistently 0.00000      target 0.01026              credit 0.00940                debt 0.00989
+convert 0.00000           debt 0.00871                cash 0.00930                  year 0.00881
+convertible 0.00000       effect 0.00827              debt 0.00927                  effect 0.00878
+corporation 0.00000       variable 0.00821            effect 0.00847                credit 0.00871
+                                                                                    
+Topic #4                  Topic #4                    Topic #4                      Topic #4
+able 0.00000              country 0.01227             country 0.01286               share 0.02389
+connection 0.00000        variable 0.01098            variable 0.01082              country 0.01379
+consistently 0.00000      dividend 0.00990            share 0.01021                 variable 0.01076
+convert 0.00000           list 0.00849                dividend 0.00953              dividend 0.00922
+convertible 0.00000       information 0.00793         measure 0.00802               capital 0.00800
+corporation 0.00000       data 0.00768                list 0.00801                  list 0.00777
+
+
+Without seed words
+Topic #0                   Topic #0                  Topic #0                       Topic #0
+year 0.01364               year 0.01358              year 0.01354                   year 0.01348
+earn 0.01044               risk 0.01049              earn 0.01067                   earn 0.01069
+model 0.00946              earn 0.01046              model 0.00947                  model 0.00945
+volatility 0.00922         model 0.00943             volatility 0.00919             volatility 0.00917
+result 0.00836             volatility 0.00918        result 0.00834                 result 0.00830
+fund 0.00745               result 0.00833            risk 0.00712                   risk 0.00730
+                                                                                    
+Topic #1                   Topic #1                  Topic #1                       Topic #1
+fund 0.01117               fund 0.01125              fund 0.01122                   fund 0.01119
+trade 0.00950              trade 0.00962             trade 0.00993                  trade 0.01006
+investor 0.00777           investor 0.00784          investor 0.00797               investor 0.00801
+institutional 0.00723      institutional 0.00734     institutional 0.00765          institutional 0.00778
+measure 0.00665            measure 0.00666           industry 0.00708               industry 0.00747
+ownership 0.00646          ownership 0.00647         measure 0.00658                measure 0.00655
+                                                                                    
+Topic #2                   Topic #2                  Topic #2                       Topic #2
+order 0.01511              order 0.01530             order 0.01620                  order 0.01669
+trade 0.01028              trade 0.00959             volatility 0.01053             model 0.00939
+model 0.00940              model 0.00943             model 0.00940                  trade 0.00865
+volatility 0.00820         option 0.00793            trade 0.00865                  option 0.00830
+option 0.00782             information 0.00697       option 0.00820                 volatility 0.00816
+information 0.00679        high 0.00595              information 0.00738            information 0.00740
+                                                                                    
+Topic #3                   Topic #3                  Topic #3                       Topic #3
+target 0.01211             rat 0.00994               rat 0.01017                    rat 0.01023
+rat 0.00998                loan 0.00990              credit 0.00941                 credit 0.00945
+credit 0.00933             cash 0.00966              effect 0.00832                 effect 0.00846
+cash 0.00925               target 0.00955            variable 0.00826               variable 0.00836
+year 0.00787               credit 0.00926            debt 0.00815                   debt 0.00823
+debt 0.00786               debt 0.00786              year 0.00809                   year 0.00816
+                                                                                    
+Topic #4                   Topic #4                  Topic #4                       Topic #4
+dividend 0.01126           dividend 0.01121          share 0.01168                  share 0.01407
+variable 0.00998           variable 0.00997          dividend 0.01088               dividend 0.01080
+country 0.00953            country 0.00956           variable 0.00985               offer 0.01034
+data 0.00795               data 0.00791              country 0.00962                variable 0.00982
+list 0.00727               share 0.00745             data 0.00767                   country 0.00966
+equity 0.00693             list 0.00719              list 0.00696                   data 0.00762
